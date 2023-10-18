@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Basic Ethical Hacker from India</h3>
 
 - 🌱 I’m currently learning **Malware attacks and networking**
-- and sharing my knowledge through social media support
+- and sharing my Ethical Hacking and awareness of it  through social media support
 
 - 📫 How to reach me **akhimudiraj1821@gmail.com**
 
