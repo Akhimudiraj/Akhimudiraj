@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning **Malware attacks and networking**
 - and sharing my Ethical Hacking and awareness of it  through social media support
 
-- 📫 How to reach me **akhimudiraj1821@gmail.com**
+- 📫 How to reach me **akhimudiraj1821@gmail.com**,,**@akhimudiraj18**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
