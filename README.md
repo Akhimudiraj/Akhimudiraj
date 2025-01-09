@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Karanam Harish (Akhimudiraj)</h1>
+<h1 align="center">Hi 👋, I'm Karanam Harish </h1>
 <h3 align="center">A passionate Basic Ethical Hacker from India and currently pursuring Engineering </h3>
 
 - 🌱 I’m currently learning **Malware attacks and networking**
 - and sharing my Ethical Hacking and awareness of it  through social media support
 
-- 📫 How to reach me **akhimudiraj1821@gmail.com**,,**@akhimudiraj18**
+- 📫 How to reach me **karanamharish18@gmail.com**,,**@akhimudiraj18**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
