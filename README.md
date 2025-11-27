@@ -4,7 +4,7 @@
 - 🌱  **Malware attacks and networking**
 - and sharing my Ethical Hacking and awareness of it  through social media support
 
-- 📫 How to reach me **karanamharish18@gmail.com**,,**@akhimudiraj18**
+- 📫 How to reach me **karanamharish18@gmail.com, karanamharish2003@gmail.com**,,**@akhimudiraj18**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
