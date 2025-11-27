@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karanam Harish </h1>
-<h3 align="center">A passionate Basic Ethical Hacker from India  </h3>
+<h3 align="center">A Software Engineer with a strong foundation in java and  familiar with Spring, Spring Boot, Hibernate, JDBC, MySQL,REST APIs and passionate Basic Ethical Hacker from India  </h3>
 
 - 🌱  **Malware attacks and networking**
 - and sharing my Ethical Hacking and awareness of it  through social media support
