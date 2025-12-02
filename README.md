@@ -32,7 +32,7 @@ A passionate Ethical Hacking enthusiast focusing on malware analysis, networking
 ---
 
 # 🛡️ Ethical Hacking & Cybersecurity
-- Basic Ethical Hacker with strong interest in **malware detection**, **network scanning**, and **OSINT**  
+- Basic Ethical Hacker with strong interest in **malware detection**, **network scanning** 
 - Experienced with **Linux**, **Kali basics**, **password attack simulations**, and **web vulnerability concepts**  
 - Presented paper on **Phishing & Malware Attacks** at ICCIASH-2022  
 - Participated in **Virtusa Jatayu Hackathon 2024**  
