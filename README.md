@@ -101,7 +101,7 @@ Distributed system with Eureka, Feign, API Gateway & Docker.
 
 <!-- Swagger -->
 <a href="https://swagger.io/" target="_blank" rel="noreferrer">
-<img src="https://static-00.iconduck.com/assets.00/swagger-icon-512x512-x4c7714g.png" width="40" height="40"/>
+<img src="https://th.bing.com/th/id/OIP.-4AkRNKNPTaXR567kAkwggAAAA?w=149&h=176&c=7&r=0&o=7&cb=ucfimg2&dpr=1.3&pid=1.7&rm=3&ucfimg=1" width="40" height="40"/>
 </a>
 
 <!-- Docker -->
