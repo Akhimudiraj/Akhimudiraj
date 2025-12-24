@@ -7,7 +7,7 @@ A passionate Ethical Hacking enthusiast focusing on malware analysis, networking
 ---
 
 ### 🌱 Currently Exploring
-- Building secure backend systems using Java & Spring Boot  
+- Building secure backend systems using Java, Spring Boot & Microservices 
 - **Malware attacks**, threat behavior & cybersecurity fundamentals  
 - Sharing **ethical hacking awareness** on social media  
 
